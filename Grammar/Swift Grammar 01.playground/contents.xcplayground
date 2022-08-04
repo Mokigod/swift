@@ -3,5 +3,7 @@
     <pages>
         <page name='Foreach'/>
         <page name='enum'/>
+        <page name='For repeat'/>
+        <page name='Unwrap Optional'/>
     </pages>
 </playground>

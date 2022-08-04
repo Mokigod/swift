@@ -21,6 +21,7 @@ let yourGrade = Grade.second
 print("yourGrade : \(yourGrade)")
 print("yourGrade : \(yourGrade.rawValue)")
 
+// enum : 타입을 나누는 것 예 : 학교 - 초 중 고
 enum SchoolDetail {
     case elementary(name : String)
     case middle(name : String)
